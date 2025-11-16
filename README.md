@@ -9,11 +9,11 @@ The goal of this project is to build deep understanding of algorithm design, ana
 
 ## Repository Structure
 
-algorithms-implementation/
-│
-├── searching/
-│ └── binary-search/
-│
+algorithms-implementation/ <br>
+│ <br>
+├── searching/ <br>
+│ └── binary-search/ <br>
+│ <br>
 
 ---
 
@@ -70,11 +70,11 @@ algorithms-implementation/
 
 ## Example Folder Structure for an Algorithm
 
-sorting/merge-sort/
-│
-├── MergeSort.cpp
-├── main.cpp
-└── README.md
+sorting/merge-sort/ <br>
+│ <br>
+├── MergeSort.cpp <br>
+├── main.cpp <br>
+└── README.md <br>
 
 
 `README.md` includes:
@@ -86,7 +86,7 @@ sorting/merge-sort/
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 - Strengthen algorithm foundations  
 - Prepare for coding interviews  
