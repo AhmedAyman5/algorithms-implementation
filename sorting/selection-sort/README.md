@@ -48,7 +48,7 @@ Selection Sort is a comparison-based sorting algorithm that repeatedly selects t
 	cout << "Before sort:\n";
 	displayArr(arr, size);
 
-	bubble_sort(arr, size);
+	selection_sort(arr, size);
 
 	cout << "After sort:\n";
 	displayArr(arr, size);
@@ -71,7 +71,7 @@ After sort:
 
 ---
 
-33 Goal
+## Goal
 
 This project is part of my algorithms learning journey, implementing every fundamental sorting algorithm from scratch in C++.
 
