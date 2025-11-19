@@ -13,7 +13,7 @@ algorithms-implementation/ <br>
 │ <br>
 ├── searching/ <br>
 │ └── binary-search/ <br>
-│ <br>
+├── searching/ <br>
 
 ---
 
