@@ -13,7 +13,11 @@ algorithms-implementation/ <br>
 │ <br>
 ├── searching/ <br>
 │ └── binary-search/ <br>
-├── searching/ <br>
+├── sorting/
+│ ├── bubble-sort/
+│ ├── selection-sort/
+│ ├── insertion-sort/
+
 
 ---
 
