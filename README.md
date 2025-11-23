@@ -9,6 +9,7 @@ The goal of this project is to build deep understanding of algorithm design, ana
 
 ## Repository Structure
 
+```
 algorithms-implementation/
 │
 ├── searching/
@@ -19,6 +20,8 @@ algorithms-implementation/
 │   ├── insertion-sort/
 │   ├── merge-sort/
 │   └── quick-sort/
+
+```
 
 
 ---
