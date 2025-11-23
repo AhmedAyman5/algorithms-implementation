@@ -16,7 +16,9 @@ algorithms-implementation/ <br>
 ├── sorting/ <br>
 │ ├── bubble-sort/ <br>
 │ ├── selection-sort/ <br>
-│ └── insertion-sort/ <br>
+│ ├── insertion-sort/ <br>
+│ ├── merge-sort/ <br>
+│ └── quick-sort/ <br>
 │ <br>
 │ <br>
 
