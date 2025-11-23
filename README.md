@@ -9,18 +9,17 @@ The goal of this project is to build deep understanding of algorithm design, ana
 
 ## Repository Structure
 
-algorithms-implementation/ <br>
-│ <br>
-├── searching/ <br>
-│ └── binary-search/ <br>
-├── sorting/ <br>
-│ ├── bubble-sort/ <br>
-│ ├── selection-sort/ <br>
-│ ├── insertion-sort/ <br>
-│ ├── merge-sort/ <br>
-│ └── quick-sort/ <br>
-│ <br>
-│ <br>
+algorithms-implementation/
+│
+├── searching/
+│   └── binary-search/
+├── sorting/
+│   ├── bubble-sort/
+│   ├── selection-sort/
+│   ├── insertion-sort/
+│   ├── merge-sort/
+│   └── quick-sort/
+
 
 ---
 
